@@ -1,1 +1,1 @@
-# react-product-store
+# Headless CMS & React front-end 
